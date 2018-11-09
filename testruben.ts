@@ -1,3 +1,3 @@
 const nuevo = () => {
-  console.log("Come va");
+  console.log("kdjsd");
 };
